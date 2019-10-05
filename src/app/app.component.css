@@ -1,0 +1,20 @@
+.div1 {
+    width: 1000px !important;
+    height: 500px !important;
+    padding-left: 160px !important;
+   
+}
+h2{
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	color: green;
+
+}
+body{
+	background: red;
+}
+html {
+    background: mediumaquamarine !important;
+}
